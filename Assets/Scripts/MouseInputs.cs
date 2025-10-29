@@ -31,7 +31,7 @@ public class MouseInputs : MonoBehaviour
     {
         Debug.Log("LeftMouse Button Clicked");
         //objToEnable.SetActive(true);
-        rend.material.color = clickedColorChange; //;//changes the color of the material to green using the variable we assigned earlier
+        rend.material.color = dodgerBlue; //;//changes the color of the material to green using the variable we assigned earlier
 
     }
     
