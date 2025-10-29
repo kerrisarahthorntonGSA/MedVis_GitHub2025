@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class MergeConflict : MonoBehaviour
 {
-    void OnEnable()
-    {
-        Debug.Log("This is a merge conflict script on main");
-    }
+   private void OnEnable() 
+   {
+        Debug.Log("The is the Merge Conflict Script on our Branch");
+   }
 }
