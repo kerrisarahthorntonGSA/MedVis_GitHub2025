@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "MedVis_GitHub2025.sln"
+    "dotnet.defaultSolution": "MedVis_GitHub2025.slnx"
 }
