@@ -22,6 +22,7 @@ public class OnClickAnimations : MonoBehaviour
     void OnMouseDown()
     {
         thisAnimator.SetBool("IsClicked", true); //This accesses the specific animator and it searches for the parameter we set earlier, so the orange text needs to match the name of the parameter we set earlier exactly. It assigns the bool state to true.
+        Debug.Log("Mouse Clicked");
     }
 
 
